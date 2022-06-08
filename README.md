@@ -20,7 +20,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Slides | [Link](./Ethics & Plagiarism.pdf)|
+| Lesson | Slides | [Link](Ethics & Plagiarism.pdf)|
 | Relevant Video | The Era of Blind Faith in Big Data Must End  | [Link](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end) |
 
 ## Example Case Studies
