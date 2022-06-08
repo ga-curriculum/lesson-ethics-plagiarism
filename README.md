@@ -16,8 +16,12 @@
 4. Understand some of the ethical responsibilities associated with gathering and using data.
 5. Understand the implications of data science decisions from various perspectives.
 
-| Relevant Video | The Era of Blind Faith in Big Data Must End  | [Link](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end) |
+## Materials We Provide
 
+| Topic | Description | Link |
+| --- | --- | --- |
+| Lesson | Slides | [Link](./ethics_plagiarism.pdf)|
+| Relevant Video | The Era of Blind Faith in Big Data Must End  | [Link](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end) |
 
 ## Example Case Studies
 
