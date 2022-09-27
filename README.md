@@ -25,10 +25,9 @@
 
 ## Example Case Studies
 
-1. [Crowd-Sourced Pothole Identification](https://www.wired.com/insights/2014/03/potholes-big-data-crowdsourcing-way-better-government/)
+1. [Self-Driving Cars](https://www.pbs.org/newshour/science/in-a-crash-should-self-driving-cars-save-passengers-or-pedestrians-2-million-people-weigh-in)
 2. [Target Ads](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#2c1c3a666686)
 3. [Predictive Policing](https://www.theverge.com/2021/12/6/22814409/go-read-this-gizmodo-analysis-predpol-software-disproportionate-algorithm)
-4. [Self-Driving Cars](https://www.pbs.org/newshour/science/in-a-crash-should-self-driving-cars-save-passengers-or-pedestrians-2-million-people-weigh-in)
 
 ---
 
